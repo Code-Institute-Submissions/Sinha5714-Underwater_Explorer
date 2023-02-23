@@ -43,7 +43,6 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
-
 #cover-text, #cover-text h2{
     color: #fff;
 }
@@ -83,4 +82,64 @@ animation-fill-mode: forwards;
     bottom: 30px;
     right: 150px;
     position: absolute;
+}
+/* Gallery */
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+#photos > img{
+    width: 100%;
+}
+/* Footer */
+footer {
+    height: 150px;
+}
+#follow-us{
+    text-align: center;
+}
+#follow{
+    font-family: cursive;
+    color: mediumblue;
+    text-decoration: underline;
+}
+.social-networks {
+    text-align:center;
+}
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+/*Why Us*/
+#why-us{
+    height: 600px;
+}
+.left-side{
+    float: left;
+    padding-top: 30px;
+    width: 100%;
+}
+.right-side{
+    float: right;
+    padding-top: 30px;
+    width: 33%;
+}
+#welcome{
+    clear: both;
+    text-align: center;
+    color: green;
+    font-size: 200%;
+}
+hr{
+    border-top: 1px solid #3a3a3a;
+    width: 33%;
+    margin: 5px 0;
 }
