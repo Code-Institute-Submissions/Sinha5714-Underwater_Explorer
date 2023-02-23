@@ -55,7 +55,7 @@ h1, h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url(../images/main-image.jpeg) no-repeat center center;
+    background: url(../images/main-image.jpeg) center/ cover no-repeat;
     /* animates zoom effect on loading page */
 animation-name: main-zoom;
 animation-duration: 5s;
@@ -126,6 +126,7 @@ footer {
 /*Why Us*/
 #why-us{
     height: 600px;
+    background: url(../images/underwater.jpeg) center/ cover no-repeat;
 }
 #placement{
     padding-top: 30px;
@@ -139,12 +140,14 @@ footer {
     float: left;
     line-height: 20px;
     clear: both;
+    color: white;
 }
 .right-side{
     width: 40%;
     float: right;
     line-height: 20px;
     clear: both;
+    color:white;
 }
 
 .why-us-photos-left{
