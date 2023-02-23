@@ -116,9 +116,12 @@ footer {
 
 .social-networks i {
     font-size: 160%;
-    margin: 1%;
+    margin: 2%;
     padding: 0;
     color: #3a3a3a;
+}
+.social-networks i:hover{
+    color: blue;
 }
 /*Why Us*/
 #why-us{
