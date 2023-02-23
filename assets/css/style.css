@@ -240,19 +240,19 @@ footer {
     #cover-text{
         left: 0;
     }
-    #club-ethos{
+    #why-us{
         width: 90%;
         height: 1200px;
         margin: 0 auto;
     }
-    .left-about-heading, .right-about-heading{
+    .left-side, .right-side{
         width: inherit;
     }
-    .left-about-heading h2, .right-about-heading h2{
+    .left-side h2, .right-side h2{
         width: 100%;
         text-align: center;
     }
-    .left-about-heading p, .right-about-heading p{
+    .left-side, .right-side p{
         text-align: center;
         padding: 0 20px;
     }
