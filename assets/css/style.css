@@ -1,25 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:ital,wght@1,500&family=Lobster&family=Oswald:wght@500&display=swap');
 * {
     margin: 0;
     border: none;
     padding: 0  
 }
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Labrada, sans-serif;
     font-weight: 300;
     color: black;
 }
 /* Header */
 h1, h2 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: darkkhaki;
+}
+#top {
+    background-color: rgba(237, 170, 146, 0.7);
+    height: 75px;
 }
 #head {
     float: left;
     font-size: 280%;
     margin-left: 20px;
     text-decoration: underline;
+    color: brown;
 }
 #menu {
     font-size: 110%;
@@ -55,7 +61,7 @@ h1, h2 {
 
 #cover-text{
     font-size: 130%;
-    font-family: Arial, Helvetica, sans-serif ;
+    font-family: Labrada, sans-serif ;
     text-transform: uppercase;
     width: 300px;
     height: 200px;
@@ -81,7 +87,7 @@ h1, h2 {
 footer {
     height: 150px;
     border-top: 2px solid black;
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(237, 170, 146, 0.7);
     width: 100%;
 }
 #follow-us{
@@ -89,7 +95,7 @@ footer {
 }
 #follow{
     font-family: cursive;
-    color: rgb(11, 11, 11);
+    color:brown;
     text-decoration: underline;
 }
 .social-networks {
@@ -179,10 +185,13 @@ footer {
 .text-input{  
     color:rgb(10, 10, 10);
     width:100%;
-    height: 25px;
+    height: 20px;
     margin:5px 0 20px;
     border: 1px solid #fafafa;
     border-radius: 2px;
+}
+#query{
+    height: 80px;
 }
 .text-input:hover{
     border-color: #f16c6b;
@@ -240,6 +249,7 @@ footer {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
+    
     }
     #about-us{
         width: 90%;
@@ -313,15 +323,14 @@ footer {
 #about-us{
     clear: both;
     width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;   
+      
 }
 #background{
     background: url(../images/about.jpeg) center/ cover no-repeat;
 }
 #about-us h2{
     text-decoration: underline;
-    color:black;
+    color:darkkhaki;
     margin-left: 20px;
 }
 #about-us p{
