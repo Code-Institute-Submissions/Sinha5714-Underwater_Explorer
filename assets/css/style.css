@@ -82,6 +82,7 @@ footer {
     height: 150px;
     border-top: 2px solid black;
     background-color: rgba(241, 109, 107, .7);
+    width: 100%;
 }
 #follow-us{
     text-align: center;
@@ -150,7 +151,7 @@ footer {
 #welcome{
     clear: both;
     text-align: center;
-    color: green;
+    color: dimgray;
     font-size: 200%;
     text-decoration: underline;
 }
@@ -308,15 +309,23 @@ footer {
     }
     
 }
+/* About Us*/
 #about-us{
     clear: both;
     width: 100%;
-    margin-left: 20px;
-    padding-top: 30px;
-    padding-bottom: 10px;
-    
+    padding-top: 10px;
+    padding-bottom: 10px;   
+}
+#background{
+    background: url(../images/about.jpeg) center/ cover no-repeat;
 }
 #about-us h2{
     text-decoration: underline;
-    color: rgb(18, 19, 19);
+    color:black;
+    margin-left: 20px;
+}
+#about-us p{
+    margin-left: 20px;
+    color: rgb(102, 9, 241);
+    color: lightgoldenrodyellow;
 }
