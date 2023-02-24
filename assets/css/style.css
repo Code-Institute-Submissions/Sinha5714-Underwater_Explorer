@@ -16,10 +16,7 @@ h1, h2 {
     letter-spacing: 4px;
     color: darkkhaki;
 }
-#top {
-    background-color: rgba(237, 170, 146, 0.7);
-    height: 75px;
-}
+
 #head {
     float: left;
     font-size: 280%;
@@ -33,11 +30,12 @@ h1, h2 {
 }
 #menu, #head{
     line-height: 75px;
+    
 }
 #menu li{
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 #menu a{
     text-decoration: none;
