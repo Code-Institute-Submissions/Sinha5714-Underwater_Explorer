@@ -87,7 +87,7 @@ animation-fill-mode: forwards;
 #photos {
     clear: both;
     line-height: 0;
-    column-count: 3;
+    column-count: 4;
     column-gap: 0;
 }
 #photos > img{
@@ -303,4 +303,15 @@ footer {
         column-count: 2;
     }
     
+}
+#about-us{
+    height: 900px;
+   clear: both;
+    width: 100%;
+    margin: 50px;
+    padding-top: 30px;
+}
+#about-us h2{
+    text-decoration: underline;
+    color: rgb(18, 19, 19);
 }
