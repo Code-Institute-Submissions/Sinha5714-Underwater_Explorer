@@ -27,15 +27,19 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    overflow: hidden;
 }
 #menu, #head{
     line-height: 75px;
     
 }
-#menu li{
+#menu {
     float: right;
     list-style-type: none;
     margin-right: 20px;
+    text-align: center;
+    padding: 16px 20px;
+    font-size: 20px;
 }
 #menu a{
     text-decoration: none;
