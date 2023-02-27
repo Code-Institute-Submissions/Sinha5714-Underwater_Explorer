@@ -66,7 +66,6 @@ h1, h2 {
     position: relative;
 }
 #main-outer video{
-    height: 600px;
     width: 100%;
 }
 
@@ -178,12 +177,10 @@ footer {
 /* Form Section */
 .form-section {
     clear: left;
-    background: url(../images/joinus.jpeg);
-    background-size: cover;
-    background-position: center;
+    background: url(../images/joinus.jpeg) center/ cover no-repeat;
     height: 900px;
 }
-.signup-form{
+.joinus-form{
     margin: 150px 10% 0 0;
     color: #fff;
     background-color: rgba(40, 175, 107, 0.6);
@@ -192,7 +189,7 @@ footer {
     left: 10%;
     padding: 30px;
 }
-.signup-form h2{
+.joinus-form h2{
     color:white;
     margin-bottom: 20px;
 }
@@ -229,8 +226,6 @@ footer {
     clear: both;
     width: 100%;
     text-align: center; 
-}
-#background{
     background: url(../images/about.jpeg) center/ cover no-repeat;
 }
 #about-us h2{
@@ -276,6 +271,21 @@ footer {
         float: left;
         margin-left: 30px;
         line-height: 25px;   
+    }
+    #main-outer{
+        height: 300px;
+        clear: left;
+        
+    }
+    #cover-text{
+        height: 150px;
+        padding: 0;
+    }
+    #cover-text h2{
+        height: 100px;
+        float: right;
+        text-align: left;
+        margin-left: 30px;
     }
    
     #why-us{
