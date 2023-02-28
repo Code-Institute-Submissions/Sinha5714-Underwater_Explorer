@@ -286,14 +286,12 @@ footer {
         line-height: 25px;   
     }
     #main-outer{
-        height: 400px;
-        clear: left;    
+        height: 202px;
     }
     
     #cover-text{
         height: 150px;
         padding: 0;
-        margin-top: 210px;
     }
     #cover-text h2{
         height: 100px;
@@ -304,7 +302,7 @@ footer {
    
     #why-us{
         width: 100%;
-        height: 1200px;
+        height: 750px;
         margin: 0 auto;
     }
     #about-us{
@@ -320,6 +318,7 @@ footer {
     .left-side h2, .right-side h2{
         width: 100%;
         text-align: center;
+        padding-top: 20px;
     }
     .left-side p, .right-side p{
         text-align: center;
