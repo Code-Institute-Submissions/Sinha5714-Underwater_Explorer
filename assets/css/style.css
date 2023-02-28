@@ -141,6 +141,9 @@ h1, h2 {
 /* Events */
 #events{
     clear: both;
+    text-align: center;
+    background: url(../images/boat-image.jpeg) center/ cover no-repeat;
+    height: 900px;
 }
 /* Gallery */
 #photos {
