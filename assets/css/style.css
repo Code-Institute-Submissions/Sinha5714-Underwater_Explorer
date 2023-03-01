@@ -76,7 +76,7 @@ h1, h2, h3 {
 
 #cover-text{
     font-size: 130%;
-    font-family: Labrada, sans-serif ;
+    font-family: Raleway, sans-serif ;
     text-transform: uppercase;
     width: 300px;
     height: 180px;
@@ -188,7 +188,7 @@ h1, h2, h3 {
     color: #fafafa;
     background-color: rgba(40, 175, 107, 0.6);
     width: 20%;
-    height: 700px;
+    height: 500px;
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
@@ -199,6 +199,10 @@ h1, h2, h3 {
 #trip h3{
     text-decoration: underline;
     text-transform: uppercase;
+}
+.travel{
+    height: 200px;
+    width: 100%;
 }
 /* Gallery */
 #photos {
