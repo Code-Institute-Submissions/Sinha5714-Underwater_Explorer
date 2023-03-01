@@ -125,7 +125,6 @@ h1, h2, h3 {
 #placement h2{
     text-decoration: underline;
     color: black;
-    text-align: center;
 }
 .left-side {
     width: 50%;
@@ -350,6 +349,7 @@ footer {
         height: 150px;
         padding: 0;
     } 
+    
 }
 @media screen and (max-width: 950px) {
     #top{
@@ -378,7 +378,7 @@ footer {
    
     #why-us{
         width: 100%;
-        height: 750px;
+        height: 900px;
         margin: 0 auto;
     }
     #about-us{
@@ -393,12 +393,21 @@ footer {
     }
     .left-side h2, .right-side h2{
         width: 100%;
-        text-align: center;
+        text-align: left;
         padding-top: 20px;
+        line-height: 30px;
+        float: left;
     }
     .left-side p, .right-side p{
-        text-align: center;
+        text-align: left;
         padding: 0 20px;
+        float: left;
+    }
+    .container{
+        clear: both;
+        padding: 10px;
+        height: 60px;
+        width: 60px;
     }
     #photos{
         column-count: 3;
