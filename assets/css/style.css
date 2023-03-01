@@ -318,6 +318,18 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }
+    .left-side, .right-side{
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+    .container{
+        clear: both;
+        width: 44%;
+        height: 180px;
+        padding: 0;
+        float: left;
+    }
     #about-us{
         width: 100%;
         height: 1050px;
@@ -392,22 +404,20 @@ footer {
         width: inherit;
     }
     .left-side h2, .right-side h2{
-        width: 100%;
-        text-align: left;
-        padding-top: 20px;
+        width: 100;
+        text-align: center;
         line-height: 30px;
-        float: left;
     }
     .left-side p, .right-side p{
-        text-align: left;
+        text-align: center;
         padding: 0 20px;
-        float: left;
     }
     .container{
         clear: both;
-        padding: 10px;
-        height: 60px;
-        width: 60px;
+        width: 35%;
+        height: 160px;
+        padding: 0;
+        float: left;
     }
     #photos{
         column-count: 3;
