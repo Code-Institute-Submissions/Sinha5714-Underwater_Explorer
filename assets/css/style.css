@@ -164,6 +164,10 @@ h1, h2 {
     box-sizing: border-box;
     margin-top: 100px;
 }
+#trip h3{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
 /* Gallery */
 #photos {
     clear: both;
@@ -221,6 +225,7 @@ footer {
     left: 10%;
     padding: 30px;
 }
+
 .joinus-form h2{
     color:white;
     margin-bottom: 20px;
@@ -245,7 +250,7 @@ footer {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: #f50606;
     color: #fafafa;
     display: block;
 }
@@ -253,12 +258,32 @@ footer {
     background-color: #fafafa;
     color: #f16c6b;
 }
+#contact-us{
+    margin: 120px 10% 0 0;
+    color: #fff;
+    background-color: rgba(40, 175, 107, 0.6);
+    max-width: 400px;
+    position: absolute;
+    right: 10%;
+    padding: 30px;
+}
+#contact-us h2{
+    text-decoration: underline;
+    color: #fff;
+    text-transform: uppercase;
+}
+#contact-us h3{
+    color:  darkkhaki;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
 /* About Us*/
 #about-us {
     clear: both;
     width: 100%;
     text-align: center; 
     background: url(../images/about.jpeg) center/ cover no-repeat;
+    height: 600px;
 }
 #about-us h2{
     text-decoration: underline;
@@ -322,7 +347,7 @@ footer {
         line-height: 25px;   
     }
     #main-outer{
-        height: 350px;
+        height: 600px;
     }
     
     #cover-text{
@@ -343,7 +368,7 @@ footer {
     }
     #about-us{
         width: 100%;
-        height: 1165px;
+        height: 750px;
         margin: 0 auto;
         text-align: center;
     }
