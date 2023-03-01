@@ -93,7 +93,7 @@ h1, h2 {
 #why-us{
     height: 600px;
     width: 100%; 
-    background: lightseagreen; 
+    background: url(../images/diverout.jpeg) center/ cover no-repeat; 
     margin: 0;
 }
 #placement{
@@ -102,6 +102,7 @@ h1, h2 {
 }
 #placement h2{
     text-decoration: underline;
+    color: black;
 }
 .left-side{
     width: 40%;
@@ -144,6 +145,24 @@ h1, h2 {
     text-align: center;
     background: url(../images/boat-image.jpeg) center/ cover no-repeat;
     height: 900px;
+}
+#events h2{
+    font-weight: 300;
+    text-decoration: underline;
+    font-size: 200%;
+    padding-top: 40px;
+}
+#trip div{
+    color: #fafafa;
+    background-color: rgba(40, 175, 107, 0.6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+    margin-top: 100px;
 }
 /* Gallery */
 #photos {
@@ -194,7 +213,7 @@ footer {
     height: 900px;
 }
 .joinus-form{
-    margin: 150px 10% 0 0;
+    margin: 120px 10% 0 0;
     color: #fff;
     background-color: rgba(40, 175, 107, 0.6);
     max-width: 400px;
@@ -265,6 +284,17 @@ footer {
         height: 1050px;
         margin: 0 auto;
     }
+    #events{
+        width: 100%;
+        height: 850px;
+        margin: 0 auto;
+    }
+    #events h2{
+        padding: 0;
+    }
+    #trip div{
+        margin: 0 auto;
+    }
     #welcome{
         padding: 30px 0;
         margin: 0;
@@ -273,7 +303,13 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
-    }  
+    } 
+    #trip > div{
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    } 
 }
 @media screen and (max-width: 950px) {
     #top{
