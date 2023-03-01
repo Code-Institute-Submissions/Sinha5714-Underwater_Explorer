@@ -200,10 +200,7 @@ h1, h2, h3 {
     text-decoration: underline;
     text-transform: uppercase;
 }
-.travel{
-    height: 200px;
-    width: 100%;
-}
+
 /* Gallery */
 #photos {
     clear: both;
@@ -223,15 +220,15 @@ footer {
     width: 100%;
 }
 #follow-us{
-    text-align: center;
+    position: relative;
 }
 #follow{
-    font-family: cursive;
     color:brown;
     text-decoration: underline;
+    text-align: right;
 }
 .social-networks {
-    text-align:center;
+    text-align: right;
 }
 .social-networks > li {
     display: inline;
@@ -245,6 +242,14 @@ footer {
 }
 .social-networks i:hover{
     color: blue;
+}
+#address{
+    text-align: left;
+    max-height: 150px;
+}
+#location{
+    text-align: center;
+    max-height: 150px;
 }
 
 /* Form Section */
@@ -295,25 +300,7 @@ footer {
     background-color: #fafafa;
     color: #f16c6b;
 }
-#contact-us{
-    margin: 120px 10% 0 0;
-    color: #fff;
-    background-color: rgba(40, 175, 107, 0.6);
-    max-width: 400px;
-    position: absolute;
-    right: 10%;
-    padding: 30px;
-}
-#contact-us h2{
-    text-decoration: underline;
-    color: #fff;
-    text-transform: uppercase;
-}
-#contact-us h3{
-    color:  darkkhaki;
-    text-decoration: underline;
-    text-transform: capitalize;
-}
+
 
 /* Media queries*/
 /*from larger to medium devices upto 1200px*/
