@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Labrada:ital,wght@1,500&family=Lobster&family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway:wght@700&display=swap');
 * {
     margin: 0;
     border: none;
     padding: 0  
 }
 body{
-    font-family: Labrada, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-weight: 300;
     color: black;
 }
@@ -17,7 +17,7 @@ body{
     clear: both;
 }
 h1, h2 {
-    font-family: Oswald, sans-serif;
+    font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: darkkhaki;
