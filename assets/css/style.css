@@ -218,9 +218,8 @@ footer {
     border-top: 2px solid black;
     width: 100%;
 }
-#follow{
-    color:brown;
-    text-decoration: underline;
+#follow-us h3{
+    background-color: #6bf195;
 }
 #follow h3{
     margin-right: 20px;
