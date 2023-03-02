@@ -26,7 +26,7 @@ h1, h2, h3 {
     font-size: 280%;
     margin-left: 20px;
     text-decoration: underline;
-    color: brown;
+    color: rgb(42, 132, 165);
 } 
 #menu ul{
    list-style-type: none;
@@ -202,6 +202,12 @@ h1, h2, h3 {
 }
 
 /* Gallery */
+#head-gallery{
+    clear: both;
+    text-align: center;
+    background-color: aqua;
+}
+
 #photos {
     clear: both;
     line-height: 10px;
@@ -444,7 +450,7 @@ footer {
     #why-us{
         width: 100%;
         height: 800px;
-        margin: 0, auto;
+        margin:0 auto;
     }
     .container{
         clear: both;
