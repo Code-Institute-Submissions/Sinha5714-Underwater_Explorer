@@ -380,10 +380,14 @@ footer {
         margin-left: 30px;
         line-height: 25px;   
     }
+    #main-outer{
+        height: 430px;
+    }
     
     #cover-text{
         height: 150px;
         padding: 0;
+        left: 0;
     }
     #cover-text h2{
         height: 100px;
@@ -393,8 +397,8 @@ footer {
     }
    
     #why-us{
-        width: 100%;
-        height: 900px;
+        width: 90%;
+        height: 950px;
         margin: 0 auto;
     }
     #about-us{
@@ -408,20 +412,13 @@ footer {
         width: inherit;
     }
     .left-side h2, .right-side h2{
-        width: 100;
+        width: 100%;
         text-align: center;
         line-height: 30px;
     }
     .left-side p, .right-side p{
         text-align: center;
         padding: 0 20px;
-    }
-    .container{
-        clear: both;
-        width: 35%;
-        height: 160px;
-        padding: 15px;
-        float: left;
     }
     #events{
         height: 900px;
@@ -436,13 +433,23 @@ footer {
     #location, #follow{
         padding-top: 20px ;
     }
+    .container{
+        clear: both;
+        width: 30%;
+        height: 140px;
+        padding: 5px;
+        float: left;
+    }
 }
 @media screen and (max-width: 800px){
     #photos{
         column-count: 2;
     }
+    #menu{
+        margin: 0 auto;
+    }
     #main-outer{
-        height: 202px;
+        height: 218px;
     }
     #why-us{
         width: 100%;
