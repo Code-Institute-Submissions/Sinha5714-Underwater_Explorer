@@ -47,7 +47,7 @@ h1, h2, h3 {
     display: inline;
     float: left;
     padding: 10px;
-    color: #0c0c0c;
+    color: #f2ee08;
 }
 #menu, #head{
     line-height: 65px;
@@ -87,6 +87,19 @@ h1, h2, h3 {
     object-fit: contain;
     transform: translate(-50%,-50%);
     z-index: 0;
+}
+#cover-text{
+    font-size: 130%;
+    font-family: Raleway, sans-serif ;
+    text-transform: uppercase;
+    width: 100%;
+    height: 200px;
+    letter-spacing: 4px;
+    padding-top: 40px;
+    background-color: rgba(155, 246, 20, 0.7);
+    bottom: 25%;
+    position: absolute;
+    text-align: center;
 }
 
 
@@ -388,18 +401,12 @@ footer {
 @media screen and (max-width: 950px) {
     #top{
         flex-direction: column;
-    }
-    
-    #cover-text{
-        height: 150px;
-        padding: 0;
-        left: 0;
+        max-width: 100%;
     }
     #cover-text h2{
         height: 100px;
-        float: right;
-        text-align: left;
-        margin-left: 30px;
+        text-align: center;
+        padding-top: 20px;
     }
    
     #why-us{
@@ -478,11 +485,7 @@ footer {
         flex-direction: column;
         width: 100%;
         text-align: center;
-    }
-    
-    
-}
-@media screen and (max-width: 480px){
+    }   
 }
     
 
