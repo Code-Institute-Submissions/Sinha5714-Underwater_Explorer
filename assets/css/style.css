@@ -268,7 +268,7 @@ footer {
 
 }
 .social-networks i:hover{
-    color:#f50606;
+    border-bottom: 1px solid #fff ;
 
 }
 #follow-us {
