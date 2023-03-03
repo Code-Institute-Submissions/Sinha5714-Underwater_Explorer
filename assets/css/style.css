@@ -19,11 +19,7 @@ body{
 #top {
         width: 100%;
         top: 0;
-        display: flex;
         position: fixed;
-        justify-content: space-between;
-        z-index: 2000;
-        
 }
 h1, h2, h3 {
     font-family: Raleway, sans-serif;
@@ -42,6 +38,7 @@ h1, h2, h3 {
    list-style-type: none;
    margin: 0;
    padding: 0;
+   float: right;
 }
 #menu li{
     display: inline;
@@ -402,6 +399,9 @@ footer {
     #top{
         flex-direction: column;
         max-width: 100%;
+    }
+    #menu{
+        float: right;
     }
     #cover-text h2{
         height: 100px;
