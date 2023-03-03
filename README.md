@@ -37,4 +37,20 @@ Potential Features
 </li>
 <li>
 <h3>Section - Why Dive with US?</h3>
-- This section gives the user basic infor
+- This section gives the user basic information of what this community does and why the users should choose us.
+</li>
+<li><h3>Footer</h3>
+This section is at the bottom of the page. The Footer consists of our address, our location and the social media links.
+The social media links helps the user to open our accounts in various social media platforms and follow us. 
+</li>
+<h3> Events </h3>
+On the navigation menu we have Events and it is clickable. User can click on the menu "Events" and can open the next page of the website.
+In this page, user can find our upcoming travelling plans and decide to join us for the same.
+This page also consists of navigation bar and footer same like as on main page.
+<h3> Gallery </h3>
+Next to Events in navigation menu, user can find gallery which is also clickable and takes the user to out photo gallery page.
+The page consists of various pictures of our dive-trips and beach clean-ups. This page also consists of navigation bar and footer same like as on main page.
+<h3> Join us</h3>
+This page can be reached by clicking the Join Us section in the navigation bar. This is the last page of our website and it consists of a joining form. User can type there Name, Email, and can also ask any queries they have. This form once filled and submitted reach to us and we contact the user as soon as possible.
+<h2>Testing</h2>
+I tested that this page works in different browsers- Chrome and Safari
