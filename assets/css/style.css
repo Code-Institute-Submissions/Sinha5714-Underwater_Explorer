@@ -22,6 +22,10 @@ body{
     top: 0;
     width: 100%;
 }
+.nav{
+    position: relative;
+    background-color: rgba(7, 8, 8, 0.4);
+}
 #top {
         display: flex;
         justify-content: space-between;
@@ -403,6 +407,9 @@ footer {
         flex-direction: column;
         max-width: 100%;
     }
+    .nav{
+        background-color: none;
+    }
     #menu{
         float: right;
     }
@@ -465,6 +472,9 @@ footer {
     }
 }
 @media screen and (max-width: 800px){
+    #top{
+        line-height: 0;
+    }
     #photos{
         column-count: 2;
     }
