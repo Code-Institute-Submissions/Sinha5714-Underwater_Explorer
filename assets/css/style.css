@@ -10,15 +10,20 @@ body{
     color: #0c0c0c;
 }
 /* Header */
+#main-head{
+    display: block;
+    position: relative;
+    height: 650px;
+    overflow: hidden;
+}
 #top {
         width: 100%;
-        height: 100%;
-        border: 1px solid #c3c3c3;
+        top: 0;
         display: flex;
-        align-content: center;
+        position: fixed;
         justify-content: space-between;
-        padding-top: 20px;
-        background-color:black;
+        z-index: 2000;
+        
 }
 h1, h2, h3 {
     font-family: Raleway, sans-serif;
@@ -28,9 +33,10 @@ h1, h2, h3 {
 }
 #head {
     float: left;
-    font-size: 280%;
+    font-size: 180%;
     text-decoration: underline;
     color: yellow;
+    padding-left: 10px;
 } 
 #menu ul{
    list-style-type: none;
@@ -41,13 +47,12 @@ h1, h2, h3 {
     display: inline;
     float: left;
     padding: 10px;
-    color: #fff;
+    color: #0c0c0c;
 }
 #menu, #head{
     line-height: 65px;
     
 }
-
 #menu a{
     text-decoration: none;
     color: inherit;
@@ -58,35 +63,33 @@ h1, h2, h3 {
 .active {
     border-bottom: 1px solid #fff;
 }
-#cover-text, #cover-text h2{
-    color: #fff;
-}
-#main-outer {
-    height: 650px;
-    overflow: hidden;
+#main-outer{
+    height: 100%;
     position: relative;
-    clear: both;
 }
-#main-video video{
-    width: 100%;
+#main-video{
+    position: relative;
+    overflow: hidden;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    z-index: -1;
+}
+.main-player{
     position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
     height: auto;
+    top: 50%;
+    left: 50%;
+    object-fit: contain;
+    transform: translate(-50%,-50%);
+    z-index: 0;
 }
 
-#cover-text{
-    font-size: 130%;
-    font-family: Raleway, sans-serif ;
-    text-transform: uppercase;
-    width: 300px;
-    height: 180px;
-    letter-spacing: 4px;
-    padding-left: 10px;
-    padding-top: 20px;
-    background-color: rgba(17, 17, 19, 0.5);
-    top: 20px;
-    right: 100px;
-    position: absolute;
-}
+
 /* About Us*/
 #about-us {
     clear: both;
@@ -327,14 +330,6 @@ footer {
 /* Media queries*/
 /*from larger to medium devices upto 1200px*/
 @media screen and (max-width: 1200px){ 
-    #top{
-        padding: 0;
-        text-align: center;
-        margin: 0 auto;
-    }
-    #main-outer{
-        height: 450px;
-    }
     #why-us{
         width: 100%;
         height: 1200px;
@@ -393,10 +388,8 @@ footer {
 @media screen and (max-width: 950px) {
     #top{
         flex-direction: column;
-        padding: 0;
-        text-align: center;
-        margin: 0 auto;
     }
+    
     #cover-text{
         height: 150px;
         padding: 0;
@@ -490,9 +483,6 @@ footer {
     
 }
 @media screen and (max-width: 480px){
-#main-outer{
-    height: 220px;
-}
 }
     
 
