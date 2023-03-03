@@ -40,7 +40,7 @@ h1, h2, h3 {
 #head {
     float: left;
     font-size: 180%;
-    color: yellow;
+    color: #f2ee08;
     padding-left: 10px;
 } 
 #menu ul{
@@ -119,14 +119,14 @@ h1, h2, h3 {
     text-decoration: underline;
     font-size: 200%;
     padding-top: 20px;
-    color: rgb(200, 232, 16);
+    color: #f2ee08;
 }
 #about-us h3{
    text-decoration: underline;
-   color: #fff;
+   color: #f2ee08;
 }
 #about-us p{
-    color: lightgoldenrodyellow;
+    color: lightcyan;
 
 }
 /*Why Us*/
@@ -202,29 +202,32 @@ h1, h2, h3 {
     font-size: 180%;
     padding-top: 110px;
     padding-bottom: 30px;
+    color: #f16c6b;
 }
 #trip div{
-    color: #0a0a0a;
-    background-color: rgba(248, 252, 252, 0.6);
+    color: #fbf8f8;
+    background-color: rgba(9, 10, 10, 0.6);
     width: 20%;
     height: 500px;
     float: left;
     padding: 30px 0 0 30px;
     text-align: center;
-    border: 2px solid rgb(8, 8, 8);
+    border: 2px solid rgb(252, 249, 249);
     box-sizing: border-box;
     margin-top: 100px;
 }
 #trip h3{
     text-decoration: underline;
     text-transform: uppercase;
+    padding-top: 10px;
+    color: #f2ee08;
 }
 
 /* Gallery */
 #head-gallery{
     clear: both;
     text-align: center;
-    color: #201f1f;
+    color: rgb(232, 66, 16);
     text-decoration:underline ;
     padding-top: 100px;
 }
@@ -287,7 +290,7 @@ footer {
 }
 #follow-us h3{
     text-decoration: underline;
-    color: #fff;
+    color: #f2ee08;
 }
 #location iframe{
     padding-bottom: 10px;
@@ -302,7 +305,7 @@ footer {
 .joinus-form{
     margin: 120px 10% 0 0;
     color: #fff;
-    background-color: rgba(40, 175, 107, 0.6);
+    background-color: rgba(21, 22, 22, 0.8);
     max-width: 600px;
     position: absolute;
     left: 30%;
@@ -310,8 +313,11 @@ footer {
 }
 
 .joinus-form h2{
-    color:white;
+    color: #f2ee08;
     margin-bottom: 20px;
+}
+.joinus-form label{
+    color:#fff;
 }
 .text-input{  
     color:rgb(10, 10, 10);
@@ -322,10 +328,10 @@ footer {
     border-radius: 2px;
 }
 #query{
-    height: 80px;
+    height: 100px;
 }
 .text-input:hover{
-    border-color: #f16c6b;
+    border-color: #f30909;
 }
 .join-button{
     margin-top: 20px;
@@ -507,7 +513,10 @@ footer {
         flex-direction: column;
         width: 100%;
         text-align: center;
-    }   
+    }
+    #events div{
+        height: 195px
+    }
 }
     
 
