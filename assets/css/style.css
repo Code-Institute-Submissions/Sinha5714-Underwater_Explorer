@@ -78,7 +78,6 @@ h1, h2, h3 {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    z-index: -1;
 }
 .main-player{
     position: absolute;
@@ -406,9 +405,6 @@ footer {
     #top{
         flex-direction: column;
         max-width: 100%;
-    }
-    .nav{
-        background-color: none;
     }
     #menu{
         float: right;
