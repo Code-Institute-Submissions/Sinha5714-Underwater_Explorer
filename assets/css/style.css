@@ -16,10 +16,16 @@ body{
     height: 650px;
     overflow: hidden;
 }
+#nav-bar{
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+}
 #top {
-        width: 100%;
-        top: 0;
-        position: fixed;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
 }
 h1, h2, h3 {
     font-family: Raleway, sans-serif;
@@ -30,7 +36,6 @@ h1, h2, h3 {
 #head {
     float: left;
     font-size: 180%;
-    text-decoration: underline;
     color: yellow;
     padding-left: 10px;
 } 
@@ -38,7 +43,6 @@ h1, h2, h3 {
    list-style-type: none;
    margin: 0;
    padding: 0;
-   float: right;
 }
 #menu li{
     display: inline;
@@ -47,8 +51,7 @@ h1, h2, h3 {
     color: #f2ee08;
 }
 #menu, #head{
-    line-height: 65px;
-    
+    line-height: 65px;   
 }
 #menu a{
     text-decoration: none;
@@ -93,7 +96,7 @@ h1, h2, h3 {
     height: 200px;
     letter-spacing: 4px;
     padding-top: 40px;
-    background-color: rgba(155, 246, 20, 0.7);
+    background-color: rgba(251, 252, 248, .4);
     bottom: 25%;
     position: absolute;
     text-align: center;
