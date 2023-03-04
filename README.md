@@ -13,12 +13,16 @@ Site Owner Goals
 - User who are non-divers wanting to join this community
 - About us
 Potential Features
+- Navigation Bar
 - Who are we?(About Us)
-- Location
-- Pictures(Gallery)
-- Social media links
+- Why dive with us?
+- Photo Album(Gallery)
 - How to communicate with us?(Join-us)
 - Future Events
+- Location
+- Address
+- Social media links
+
 <h1> Underwater Explorers </h2>
 <p> The Underwater Explorers is a website for community of scuba divers who loves to travel around the world exploring various diving destinations</p>
 <p>Users of this website will be able to find all the information they need to know about Underwater Explorers - About us, Why to dive with us, Our Address,Our location, Upcoming Travel Plans. They can also communicate with us regarding our plans or ask any queries they have. This site is targeted to all scuba divers who likes to travel around the world and also people who are interested in learning scuba diving </p>
