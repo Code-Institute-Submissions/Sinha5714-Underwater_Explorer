@@ -104,8 +104,6 @@ h1, h2, h3 {
     position: absolute;
     text-align: center;
 }
-
-
 /* About Us*/
 #about-us {
     clear: both;
@@ -242,6 +240,59 @@ h1, h2, h3 {
     width: 100%;
     padding:10px;
 }
+
+
+/* Form Section */
+.form-section {
+    clear: left;
+    background: url(../images/wreck-image.jpeg) center/ cover no-repeat;
+    height: 900px;
+}
+.joinus-form{
+    margin: 120px 10% 0 0;
+    color: #fff;
+    background-color: rgba(21, 22, 22, 0.8);
+    max-width: 600px;
+    position: absolute;
+    left: 30%;
+    padding: 30px;
+}
+
+.joinus-form h2{
+    color: #f2ee08;
+    margin-bottom: 20px;
+}
+.joinus-form label{
+    color:#fff;
+}
+.text-input{  
+    color:rgb(10, 10, 10);
+    width:100%;
+    height: 20px;
+    margin:5px 0 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+#query{
+    height: 100px;
+}
+.text-input:hover{
+    border-color: #f30909;
+}
+.join-button{
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #f50606;
+    color: #fafafa;
+    display: block;
+}
+.join-button:hover {
+    background-color: #fafafa;
+    color: #f16c6b;
+}
 /* Footer */
 footer {
     height: 100%;
@@ -295,60 +346,6 @@ footer {
 #location iframe{
     padding-bottom: 10px;
 }
-
-/* Form Section */
-.form-section {
-    clear: left;
-    background: url(../images/wreck-image.jpeg) center/ cover no-repeat;
-    height: 900px;
-}
-.joinus-form{
-    margin: 120px 10% 0 0;
-    color: #fff;
-    background-color: rgba(21, 22, 22, 0.8);
-    max-width: 600px;
-    position: absolute;
-    left: 30%;
-    padding: 30px;
-}
-
-.joinus-form h2{
-    color: #f2ee08;
-    margin-bottom: 20px;
-}
-.joinus-form label{
-    color:#fff;
-}
-.text-input{  
-    color:rgb(10, 10, 10);
-    width:100%;
-    height: 20px;
-    margin:5px 0 20px;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-}
-#query{
-    height: 100px;
-}
-.text-input:hover{
-    border-color: #f30909;
-}
-.join-button{
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #f50606;
-    color: #fafafa;
-    display: block;
-}
-.join-button:hover {
-    background-color: #fafafa;
-    color: #f16c6b;
-}
-
-
 /* Media queries*/
 /*from larger to medium devices upto 1200px*/
 @media screen and (max-width: 1200px){ 
@@ -404,8 +401,7 @@ footer {
     
     #location iframe{
         width: 300px;
-    }
-    
+    }    
 }
 @media screen and (max-width: 950px) {
     #top{
@@ -449,7 +445,7 @@ footer {
         padding: 0 20px;
     }
     #events{
-        height: 1175px;
+        height: 1178px;
     }
     #photos{
         column-count: 3;
@@ -457,6 +453,9 @@ footer {
     #follow-us{
         flex-direction: column;
         padding: 0;
+    }
+    #address h3{
+        padding-top: 10px;
     }
     #location, #follow{
         padding-top: 20px ;
@@ -514,6 +513,7 @@ footer {
         width: 100%;
         text-align: center;
     }
+    
     #events div{
         height: 195px
     }
