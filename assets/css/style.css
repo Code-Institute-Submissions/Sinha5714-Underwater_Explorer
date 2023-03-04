@@ -9,6 +9,7 @@ body{
     font-weight: 300;
     color: #0c0c0c;
 }
+
 /* Header */
 #main-head{
     display: block;
@@ -104,7 +105,8 @@ h1, h2, h3 {
     position: absolute;
     text-align: center;
 }
-/* About Us*/
+
+/* About Us */
 #about-us {
     clear: both;
     width: 100%;
@@ -127,7 +129,8 @@ h1, h2, h3 {
     color: rgb(242, 249, 249);
 
 }
-/*Why Us*/
+
+/* Why Us */
 #why-us{
     height: 700px;
     width: 100%; 
@@ -187,6 +190,7 @@ h1, h2, h3 {
     text-decoration: underline;
     padding-top: 30px;
 }
+
 /* Events */
 #events{
     clear: both;
@@ -241,7 +245,6 @@ h1, h2, h3 {
     padding:10px;
 }
 
-
 /* Form Section */
 .form-section {
     clear: left;
@@ -293,6 +296,7 @@ h1, h2, h3 {
     background-color: #fafafa;
     color: #f16c6b;
 }
+
 /* Footer */
 footer {
     height: 100%;
@@ -346,7 +350,9 @@ footer {
 #location iframe{
     padding-bottom: 10px;
 }
+
 /* Media queries*/
+
 /*from larger to medium devices upto 1200px*/
 @media screen and (max-width: 1200px){ 
     #why-us{
@@ -403,6 +409,8 @@ footer {
         width: 300px;
     }    
 }
+
+/* For devices upto max-width 950px */
 @media screen and (max-width: 950px) {
     #top{
         flex-direction: column;
@@ -475,6 +483,7 @@ footer {
         height: 800px;
     }
 }
+/* For devices upto max-width 800px */
 @media screen and (max-width: 800px){
     #top{
         line-height: 0;
