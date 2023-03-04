@@ -313,6 +313,7 @@ h1, h2, h3 {
     color: #f2ee08;
     margin-bottom: 60px;
     padding-top: 60px;
+    text-align: center;
 }
 #go-home{
     margin: 0 auto;
