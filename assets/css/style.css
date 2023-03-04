@@ -338,9 +338,11 @@ footer {
 #location, #address{
     text-align: center;
 }
+#address{
+    margin-left: 10px;
+}
 #address p{
     color: #fff;
-    margin-left: 10px;
 }
 #follow-us h3{
     text-decoration: underline;
