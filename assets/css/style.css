@@ -115,18 +115,15 @@ h1, h2, h3 {
     line-height: 30px;
 }
 #about-us h2{
-    text-decoration: underline;
     font-size: 200%;
     padding-top: 20px;
-    color: yellow;
+    color: #ffff00;
 }
 #about-us h3{
-   text-decoration: underline;
-   color: yellow;
+   color: #ffff00;
 }
 #about-us p{
-    color: rgb(242, 249, 249);
-
+    color: rgb(250, 248, 248);
 }
 
 /* Why Us */
@@ -142,7 +139,7 @@ h1, h2, h3 {
 }
 #placement h2{
     text-decoration: underline;
-    color: black;
+    color: rgb(60, 92, 17);
 }
 .left-side {
     width: 50%;
@@ -184,9 +181,8 @@ h1, h2, h3 {
 #welcome{
     clear: both;
     text-align: center;
-    color: green;
+    color: rgb(116, 202, 3);
     font-size: 200%;
-    text-decoration: underline;
     padding-top: 30px;
 }
 
@@ -199,11 +195,10 @@ h1, h2, h3 {
 }
 #events h2{
     font-weight: 300;
-    text-decoration: underline;
     font-size: 180%;
     padding-top: 130px;
     padding-bottom: 10px;
-    color: green;
+    color: rgb(116, 202, 3);
 }
 #trip div{
     color: #fbf8f8;
@@ -221,15 +216,14 @@ h1, h2, h3 {
     text-decoration: underline;
     text-transform: uppercase;
     padding-top: 10px;
-    color: yellow;
+    color: #ffff00;
 }
 
 /* Gallery */
 #head-gallery{
     clear: both;
     text-align: center;
-    color: green;
-    text-decoration:underline ;
+    color: rgb(116, 202, 3);
     padding-top: 130px;
 }
 
@@ -295,6 +289,7 @@ h1, h2, h3 {
     background-color: #fafafa;
     color: #f16c6b;
 }
+/* Thanks form */
 .thanks-form{
     margin: 120px 10% 0 0;
     color: #fff;
@@ -456,6 +451,9 @@ footer {
         width: 100%;
         height: 950px;
         margin: 0 auto;
+    }
+    #welcome{
+        font-size: 180%;
     }
     #about-us{
         width: 100%;
