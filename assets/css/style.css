@@ -139,7 +139,7 @@ h1, h2, h3 {
 }
 #placement h2{
     text-decoration: underline;
-    color: rgb(60, 92, 17);
+    color: #41ceee;
 }
 .left-side {
     width: 50%;
@@ -216,7 +216,7 @@ h1, h2, h3 {
     text-decoration: underline;
     text-transform: uppercase;
     padding-top: 10px;
-    color: #ffff00;
+    color: #41ceee;
 }
 
 /* Gallery */
