@@ -295,6 +295,26 @@ h1, h2, h3 {
     background-color: #fafafa;
     color: #f16c6b;
 }
+.thanks-form{
+    margin: 120px 10% 0 0;
+    color: #fff;
+    background-color: rgba(21, 22, 22, 0.8);
+    max-width: 600px;
+    position: absolute;
+    left: 30%;
+    padding: 30px;
+}
+.thanks-form h2{
+    color: #f2ee08;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.thanks-form h3{
+    color: #f2ee08;
+    margin-bottom: 60px;
+    padding-top: 60px;
+}
+
 
 /* Footer */
 footer {
@@ -479,6 +499,10 @@ footer {
     .joinus-form{
         width: 65%;
         left:12%;
+    }
+    .thanks-form{
+        width: 65%;
+        left:12%; 
     }
     .form-section{
         height: 800px;
