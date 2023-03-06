@@ -145,20 +145,20 @@ h1, h2, h3 {
 .left-side {
     width: 50%;
     float: left;
-    line-height: 20px;
+    line-height: 25px;
     clear: both;
     color: rgb(2, 2, 2);
 }
 .right-side{
     width: 50%;
     float: right;
-    line-height: 20px;
+    line-height: 25px;
     clear: both;
     color:rgb(2, 2, 2);
 }
 .container{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     padding: 20px;
     border-style: solid;
     border-color: #ccc;
@@ -166,13 +166,10 @@ h1, h2, h3 {
     border-radius: 50%;
     margin: 0 auto;
 }
-
 .why-us-photos-left{ 
-    border-radius: 50%; 
     float: left;  
 }
 .why-us-photos-right{
-    border-radius: 50%; 
     float: right;  
 }
 #welcome{
@@ -381,7 +378,6 @@ footer {
         padding: 0;
     }
     .container{
-        clear: both;
         width: 180px;
         height: 180px;
         padding: 0;
@@ -459,7 +455,6 @@ footer {
         text-align: center;
     }
     .container{
-        clear: both;
         width: 190px;
         height: 190px;
         padding: 20px;
@@ -470,7 +465,6 @@ footer {
     }
     .left-side h2, .right-side h2{
         text-align: center;
-        line-height: 30px;
         font-size: 100%;
     }
     .left-side p, .right-side p{
