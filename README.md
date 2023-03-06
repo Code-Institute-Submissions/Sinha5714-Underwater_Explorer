@@ -212,6 +212,10 @@ The live link can be found here - https://sinha5714.github.io/Underwater_Explore
 
 - The attribute display with value: flex was learned using W3schools.
 
+#### Thank You Message Page
+
+- A student in slack has provided with useful information reagrding the value of "Action" and "Method" in form section to generate the "Thank You" page.
+
 ### Thank You
 - to my mentor Can for supporting me with his feedback through the entire project
 - to Code Institute and Slack community for helping me when I was getting stuck with some challenges.
