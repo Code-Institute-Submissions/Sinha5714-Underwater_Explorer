@@ -36,7 +36,7 @@ A low-fi wireframe was build before developing the website. This was done in Bal
 
 [Link to the website](https://sinha5714.github.io/Underwater_Explorer/)
 
-![An image previewing all devices](../Underwater_Explorer/assets/screenshots/devices-preview.png)
+![An image previewing all devices](assets/screenshots/devices-preview.png)
 
 <h2> Features</h2>
 
@@ -96,9 +96,9 @@ I tested that this page works in different browsers- Chrome and Safari
 <h3>Lighthouse</h3>
 The deployed website was also tested with Google Chrome's Lighhouse feature and all scores have been above 90 for both mobile and desktop.
 
-![Lighthouse result for desktop](../Underwater_Explorer/assets/screenshots/desktop-lighthouse.png)
+![Lighthouse result for desktop](assets/screenshots/desktop-lighthouse.png)
 
-![Lighthouse result for mobile](../Underwater_Explorer/assets/screenshots/mobile-lighthouse.png)
+![Lighthouse result for mobile](assets/screenshots/mobile-lighthouse.png)
 
 <h3>Validator Testing</h3>
 <h4>HTML</h4>
