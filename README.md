@@ -86,7 +86,7 @@ The page consists of various pictures of our dive-trips and beach clean-ups. Thi
 
 ![An image of gallery](assets/screenshots/gallery.png)
 
-### join us
+### Join Us
 This page can be reached by clicking the Join Us section in the navigation bar. This is the last page of our website and it consists of a joining form. User can type there Name, Email, and can also ask any queries they have. This form once filled and submitted reach to us and we contact the user as soon as possible.
 
 ![An image of join-us form](assets/screenshots/form.png)
