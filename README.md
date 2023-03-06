@@ -62,10 +62,10 @@ This page also consists of navigation bar and footer same like as on main page.
 <h3> Gallery </h3>
 Next to Events in navigation menu, user can find gallery which is also clickable and takes the user to out photo gallery page.
 The page consists of various pictures of our dive-trips and beach clean-ups. This page also consists of navigation bar and footer same like as on main page.
-![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/gallery.png)
+/assets/screenshots/gallery.png
 <h3> Join us</h3>
 This page can be reached by clicking the Join Us section in the navigation bar. This is the last page of our website and it consists of a joining form. User can type there Name, Email, and can also ask any queries they have. This form once filled and submitted reach to us and we contact the user as soon as possible.
-![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/form.png)
+/assets/screenshots/form.png
 <h2>Testing</h2>
 I tested that this page works in different browsers- Chrome and Safari
 <h3>Validator Testing</h3>
