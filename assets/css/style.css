@@ -458,7 +458,13 @@ footer {
         margin: 0 auto;
         text-align: center;
     }
-    
+    .container{
+        clear: both;
+        width: 190px;
+        height: 190px;
+        padding: 20px;
+        float: left;
+    }
     .left-side, .right-side{
         width: inherit;
     }
@@ -487,13 +493,7 @@ footer {
     #location, #follow{
         padding-top: 20px ;
     }
-    .container{
-        clear: both;
-        width: 190px;
-        height: 190px;
-        padding: 5px;
-        float: left;
-    }
+ 
     .joinus-form{
         width: 65%;
         left:12%;
@@ -521,9 +521,6 @@ footer {
     #menu li{
         padding: 0 10px;
     }
-    #photos{
-        column-count: 2;
-    }
     #menu{
         margin: 0 auto;
     }
@@ -539,7 +536,7 @@ footer {
         clear: both;
         width: 140px;
         height: 140px;
-        padding: 5px;
+        padding: 15px;
         float: left;
     }
     #follow-us{
@@ -548,9 +545,11 @@ footer {
         width: 100%;
         text-align: center;
     }
-    
     #events div{
         height: 195px
+    }
+    #photos{
+        column-count: 2;
     }
 }
     
