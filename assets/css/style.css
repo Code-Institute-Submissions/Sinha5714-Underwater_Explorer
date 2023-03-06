@@ -523,15 +523,14 @@ footer {
         height: 800px;
         margin:0 auto;
     }
-    #placement h2{
-        margin: 0 auto;
-    }
     .container{
-        clear: both;
         width: 140px;
         height: 140px;
-        padding: 15px;
+        padding: 20px;
         float: left;
+    }
+    #placement h2{
+        margin: 0 auto;
     }
     #follow-us{
         padding: 0;
