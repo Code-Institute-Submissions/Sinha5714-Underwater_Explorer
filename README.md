@@ -100,9 +100,20 @@ The deployed website was also tested with Google Chrome's Lighhouse feature and 
 #### For Desktop 
 
 ![Lighthouse result for desktop](assets/screenshots/desktop-lighthouse.png)
+
 #### For Mobile 
 
 ![Lighthouse result for mobile](assets/screenshots/mobile-lighthouse.png)
+
+### Tested Devices with Browsers
+- iPhone 12
+    - Safari
+- Samsung S22 Ultra
+    - Chrome
+- Macbook Pro 2019 16-inch
+    - Chrome
+    - Safari
+- Also tested various device sizes using [Dev.tools](https://developer.chrome.com/docs/devtools/)
 
 ### Validator Testing
 
