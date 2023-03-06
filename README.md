@@ -93,6 +93,13 @@ This page can be reached by clicking the Join Us section in the navigation bar. 
 
 <h2>Testing</h2>
 I tested that this page works in different browsers- Chrome and Safari
+<h3>Lighthouse</h3>
+The deployed website was also tested with Google Chrome's Lighhouse feature and all scores have been above 90 for both mobile and desktop.
+
+![Lighthouse result for desktop](../Underwater_Explorer/assets/screenshots/desktop-lighthouse.png)
+
+![Lighthouse result for mobile](../Underwater_Explorer/assets/screenshots/mobile-lighthouse.png)
+
 <h3>Validator Testing</h3>
 <h4>HTML</h4>
 No errors were returned when passing through the official W3C validator
