@@ -39,32 +39,39 @@ Wireframes
       side.  
     Navigation menu consists 4 sections: Home Events Gallery Join-US which takes you to various pages of the website.
     The background of navigation bar is set to maintain the contrast so that the menu and title is easy to read.
+    ![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/header.png)
 <h4>Main-video and Main-text</h4>
   <p>In header itself a video of scuba diving is added which plays in a loop. 
   A main text is also added asking users to join and explore the diving world with the community.</p>
+  ![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/main-video.png)
 <h3>Section- About US</h3>
 - A small information about the commuity is added to inform users a little about what the community does and what is it all about.
 <h3>Section - Why Dive with US?</h3>
 - This section gives the user basic information of what this community does and why the users should choose us.
+![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/about-us.png)
 <h3>Footer</h3>
 This section is at the bottom of the page. 
 The Footer consists of our address, our location and the social media links.
-The social media links helps the user to open our accounts in various social media platforms and follow us. 
+The social media links helps the user to open our accounts in various social media platforms and follow us.
+![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/footer.png) 
 <h3> Events </h3>
 On the navigation menu we have Events and it is clickable. User can click on the menu "Events" and can open the next page of the website.
 In this page, user can find our upcoming travelling plans and decide to join us for the same.
 This page also consists of navigation bar and footer same like as on main page.
+![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/events.png)
 <h3> Gallery </h3>
 Next to Events in navigation menu, user can find gallery which is also clickable and takes the user to out photo gallery page.
 The page consists of various pictures of our dive-trips and beach clean-ups. This page also consists of navigation bar and footer same like as on main page.
+![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/gallery.png)
 <h3> Join us</h3>
 This page can be reached by clicking the Join Us section in the navigation bar. This is the last page of our website and it consists of a joining form. User can type there Name, Email, and can also ask any queries they have. This form once filled and submitted reach to us and we contact the user as soon as possible.
+![This is a image](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/form.png)
 <h2>Testing</h2>
 I tested that this page works in different browsers- Chrome and Safari
 <h3>Validator Testing</h3>
-HTML
+<h4>HTML</h4>
 No errors were returned when passing through the official W3C validator
-CSS
+<h4>CSS</h4>
 No errors were found when passing through the official (Jigsaw) validator
 <h3>Unfixed Bugs</h3>
 No unfixed bugs.
@@ -84,8 +91,8 @@ The location is taken from google maps.
 The icon has been taken from fontawesome.com 
 
 <h3>Media</h3>
-The video used in the site was taken from pixels.com
-The images in the website including gallery and background are taken from pixels.com.
+The video used in the site was taken from pexels.com
+The images in the website including gallery and background are taken from pexels.com.
 
 
 
