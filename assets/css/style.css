@@ -40,7 +40,7 @@ h1, h2, h3 {
 #head {
     float: left;
     font-size: 180%;
-    color: yellow;
+    color: #ffff00;
     padding-left: 10px;
 } 
 #menu ul{
@@ -52,7 +52,7 @@ h1, h2, h3 {
     display: inline;
     float: left;
     padding: 10px;
-    color: yellow;
+    color: #ffff00;
 }
 #menu, #head{
     line-height: 65px;   
@@ -132,7 +132,7 @@ h1, h2, h3 {
     width: 100%; 
     margin: 0;
     line-height: 30px;
-    background-color: coral;
+    background-color: rgb(176, 212, 218);
 }
 #placement{
     padding-top: 30px;
@@ -140,7 +140,7 @@ h1, h2, h3 {
 }
 #placement h2{
     text-decoration: underline;
-    color: #41ceee;
+    color: #6ea225;
     margin-top: 50px;
 }
 .left-side {
@@ -176,7 +176,7 @@ h1, h2, h3 {
 #welcome{
     clear: both;
     text-align: center;
-    color: rgb(116, 202, 3);
+    color: #ffff00;
     font-size: 200%;
     padding-top: 30px;
 }
@@ -211,7 +211,7 @@ h1, h2, h3 {
     text-decoration: underline;
     text-transform: uppercase;
     padding-top: 10px;
-    color: #41ceee;
+    color: #f5f6f1;
 }
 
 /* Gallery */
