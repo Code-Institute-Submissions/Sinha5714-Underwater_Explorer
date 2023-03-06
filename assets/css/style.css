@@ -167,15 +167,11 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
-.why-us-photos-left{
-    height: 200px;
-    width: 200px;
+.why-us-photos-left{ 
     border-radius: 50%; 
     float: left;  
 }
 .why-us-photos-right{
-    height: 200px;
-    width:200px;
     border-radius: 50%; 
     float: right;  
 }

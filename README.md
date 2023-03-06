@@ -1,6 +1,6 @@
 # Underwater_Exploration
 User's Stories
-- Scuba Diving
+- Scuba Diving 
 - Travelling
 - Upcoming Events
 - Social Media
@@ -23,7 +23,7 @@ Potential Features
 - Address
 - Social media links
 
-<h1> Underwater Explorers </h2>
+# Underwater Explorers
 <p> The Underwater Explorers is a website for community of scuba divers who loves to travel around the world exploring various diving destinations</p>
 <p>Users of this website will be able to find all the information they need to know about Underwater Explorers - About us, Why to dive with us, Our Address,Our location, Upcoming Travel Plans. They can also communicate with us regarding our plans or ask any queries they have. This site is targeted to all scuba divers who likes to travel around the world and also people who are interested in learning scuba diving </p>
 <h2> Features</h2>
