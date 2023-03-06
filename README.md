@@ -25,7 +25,7 @@
 - Location
 - Address
 - Social media links
-Wireframes
+## Wireframes
 - The link for the wireframes for this site can be seen here 
 
 # Underwater Explorers
