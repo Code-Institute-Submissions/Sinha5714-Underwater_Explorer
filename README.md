@@ -46,7 +46,7 @@ Wireframes
   ![This is a image](../Underwater_Explorer/assets/screenshots/main-video.png)
 <h3>Section- About US</h3>
 - A small information about the commuity is added to inform users a little about what the community does and what is it all about.
-<img src="../Underwater_Explorer/assets/screenshots/about-us.png" alt="about-us">
+<img src="/Underwater_Explorer/assets/screenshots/about-us.png" alt="about-us">
 <h3>Section - Why Dive with US?</h3>
 - This section gives the user basic information of what this community does and why the users should choose us.
 <img src="../Underwater_Explorer/assets/screenshots/why-us.png" alt="why-us page">
@@ -59,7 +59,7 @@ The social media links helps the user to open our accounts in various social med
 On the navigation menu we have Events and it is clickable. User can click on the menu "Events" and can open the next page of the website.
 In this page, user can find our upcoming travelling plans and decide to join us for the same.
 This page also consists of navigation bar and footer same like as on main page.
-<img src="../Underwater_Explorer/assets/screenshots/events.png" alt="events">
+! [An emage of events](assets/screenshots/events.png)
 <h3> Gallery </h3>
 Next to Events in navigation menu, user can find gallery which is also clickable and takes the user to out photo gallery page.
 The page consists of various pictures of our dive-trips and beach clean-ups. This page also consists of navigation bar and footer same like as on main page.
