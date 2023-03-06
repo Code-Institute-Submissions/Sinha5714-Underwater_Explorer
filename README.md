@@ -1,7 +1,7 @@
 # Underwater Explorers
 - The Underwater Explorers is a website for community of scuba divers who love to travel around the world exploring various diving destinations
-- Users of this website will be able to find all the information they need to know about Underwater Explorers - About us, Why to dive with us, Our Address,Our location, Upcoming Travel Plans.
--  They can also communicate with us regarding our plans or ask any queries they have. 
+- Users of this website will be able to find all the information they need to know about Underwater Explorers - About us, Why to dive with us, Our Address, Our location, Upcoming Travel Plans.
+- They can also communicate with us regarding our plans or ask any queries they have. 
 - This site is targeted to all scuba divers who likes to travel around the world and also people who are interested in learning scuba diving 
 
 [Link to the website](https://sinha5714.github.io/Underwater_Explorer/)
