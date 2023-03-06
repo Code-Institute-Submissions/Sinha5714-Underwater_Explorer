@@ -1,12 +1,12 @@
 # Underwater_Exploration
-User's Stories
+## User Stories
 - Scuba Diving Travel Plans
 - Scuba Diving Courses
 - Upcoming Events
 - Social Media Links
 - Able to use in different media 
 - Where is this community located
-Site Owner Goals
+## Site Owner Goals
 - Website for diver community
 - Explorers and travellers
 - Extra activities we conduct
@@ -15,7 +15,7 @@ Site Owner Goals
 - Location and address is provided
 - Images of activities provided
 - About us
-Potential Features
+## Potential Features
 - Navigation Bar
 - Who are we?(About Us)
 - Why dive with us?
@@ -35,10 +35,14 @@ Wireframes
 <ul>
 <li>
 <h3>Header</h3>
-- Navigation bar: Featured at the top of the page. It shows community name on the left corner and navigation menu on the right       
-      side.  Navigation menu consists 4 sections: Home Events Gallery Join-US which takes you to various pages of the website.
-    <br>  The background of navigation bar is set to maintain the contrast so that the menu and title is easy to read.
-- Main-video and main-text: In header itself a video of scuba diving is added which plays in a loop. A main text is also added asking users to join and explore the diving world with the community.
+<h4>Navigation bar</h4>
+<p> Featured at the top of the page. It shows community name on the left corner and navigation menu on the right       
+      side.  
+    Navigation menu consists 4 sections: Home Events Gallery Join-US which takes you to various pages of the website.
+    The background of navigation bar is set to maintain the contrast so that the menu and title is easy to read.
+<h4>Main-video and Main-text</h4>
+  <p>In header itself a video of scuba diving is added which plays in a loop. 
+  A main text is also added asking users to join and explore the diving world with the community.</p>
 </li>
 <li>
 <h3>Section- About US</h3>
@@ -48,8 +52,10 @@ Wireframes
 <h3>Section - Why Dive with US?</h3>
 - This section gives the user basic information of what this community does and why the users should choose us.
 </li>
-<li><h3>Footer</h3>
-This section is at the bottom of the page. The Footer consists of our address, our location and the social media links.
+<li>
+<h3>Footer</h3>
+This section is at the bottom of the page. 
+The Footer consists of our address, our location and the social media links.
 The social media links helps the user to open our accounts in various social media platforms and follow us. 
 </li>
 <h3> Events </h3>
