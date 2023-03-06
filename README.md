@@ -146,7 +146,7 @@ The video used in the site was taken from [pexels.com](https://www.pexels.com/)
 The images in the website including gallery and background are taken from [pexels.com](https://www.pexels.com/)
 
 ### Code
-#### The following code ideas were borrowed from Love-running project:-
+#### The following code ideas were borrowed from [Love-running project](https://sinha5714.github.io/love-running/)
 
 - Container for images in why-us section
 
