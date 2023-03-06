@@ -26,14 +26,22 @@
 - Address
 - Social media links
 ## Wireframes
-- The link for the wireframes for this site can be seen here 
+A low-fi wireframe was build before developing the website. This was done in Balsamiq Wireframes. 
+
+ The link for the wireframes for this site can be found [here](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/wireframes)
 
 # Underwater Explorers
 <p> The Underwater Explorers is a website for community of scuba divers who loves to travel around the world exploring various diving destinations</p>
 <p>Users of this website will be able to find all the information they need to know about Underwater Explorers - About us, Why to dive with us, Our Address,Our location, Upcoming Travel Plans. They can also communicate with us regarding our plans or ask any queries they have. This site is targeted to all scuba divers who likes to travel around the world and also people who are interested in learning scuba diving </p>
+
+[Link to the website](https://sinha5714.github.io/Underwater_Explorer/)
+
+![An image previewing all devices](../Underwater_Explorer/assets/screenshots/devices-preview.png)
+
 <h2> Features</h2>
 
-<h3>Header</h3>
+<h3>Header:-</h3>
+
 <h4>Navigation bar</h4>
 <p> Featured at the top of the page. It shows community name on the left corner and navigation menu on the right       
       side.  
