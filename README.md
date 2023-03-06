@@ -137,7 +137,7 @@ The live link can be found here - https://sinha5714.github.io/Underwater_Explore
 
 ### Content
 - The text content was provided by the site owner.
-- The fonts of the content was taken from google fonts.
+- The fonts of the content was taken from [google fonts](https://fonts.google.com/)
 - The location is taken from [google maps](https://www.google.com/maps/)
 - The icon has been taken from [fontawesome.com](https://fontawesome.com/v6/docs/) 
 
