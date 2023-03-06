@@ -60,7 +60,7 @@
 - A low-fi wireframe was build before developing the website.
 - This was done in Balsamiq Wireframes. 
 
- The link for the wireframes for this site can be found [here](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/screenshots/wireframes)
+ The link for the wireframes for this site can be found [here](https://github.com/Sinha5714/Underwater_Explorer/blob/main/assets/wireframes)
 
 
 ## Features
