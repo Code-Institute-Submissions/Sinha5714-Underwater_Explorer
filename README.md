@@ -81,7 +81,7 @@
   - In header itself a video of scuba diving is added which plays in a loop. 
   - A main text is also added asking users to join and explore the diving world with the community.</p>
 
-![An image of header video](assets/videos/divewithus.mp4)
+![An image of header video](assets/screenshots/main-video.png)
 
 #### Section- About US
 - A small information about the commuity is added to inform users a little about what the community does and what is it all about.
